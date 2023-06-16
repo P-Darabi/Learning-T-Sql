@@ -1,3 +1,12 @@
+<p dir=rtl style="direction: rtl;text-align: right;line-height:200%;font-family:vazir;font-size:medium">
+<font face="vazir" size=3>
+I will write some basic and intermediate T-SQL queries here so you can use them.</ br>
+</font>
+</p>
+
+
+
+
 # Learning-T-Sql
 I will write some basic and intermediate T-SQL queries here so you can use them.
 
